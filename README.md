@@ -8,4 +8,4 @@ Since then I worked with a swarm of different languages, web frameworks, protoco
 
 Over the time I came to some personal understanding of what is happening. No one knows what they are doing. Coding is not about just coding or lines of code, it's about delivering a solution to some problem. Some folks take languages' and editors' differences to even religious extents. Just live life, enjoy and love ❤️
 
-_In each of us sleeps a genius… and his sleep gets deeper everyday._
+_Everything you say should be true, but not everything true should be said. -- Voltair_
