@@ -2,4 +2,6 @@ Call me Sandy. Some moons ago - no clue how or when exactly - having no last-min
 
 See [sandyuraz.com](https://sandyuraz.com)
 
-You can find everything there (づ｡◕‿‿◕｡)づ
+You can find everything there
+
+![najimi](osana.gif)
