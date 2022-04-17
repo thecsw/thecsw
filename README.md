@@ -4,4 +4,6 @@ See [sandyuraz.com](https://sandyuraz.com)
 
 You can find everything there
 
-![najimi](osana.gif)
+<center>
+<img title="najimi" alt="I love for Najimi" src="osana.gif" width="300px">
+</center>
