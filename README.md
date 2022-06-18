@@ -2,6 +2,6 @@ Call me Sandy. Some moons ago - no clue how or when exactly - having no last-min
 
 See [sandyuraz.com](https://sandyuraz.com). You can find everything there
 
-<div align="center">
-<img title="najimi" alt="I live for Najimi" src="osana.gif" width="500px">
-</div>
+[comment]: <div align="center">
+[comment]: <img title="najimi" alt="I live for Najimi" src="osana.gif" width="500px">
+[comment]: </div>
