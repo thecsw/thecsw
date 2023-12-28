@@ -1,3 +1,3 @@
 See [sandyuraz.com](https://sandyuraz.com). You can find everything there
 
-<img src="https://photos.sandyuraz.com/Vyl">
+![komi](https://sandyuraz.com/plastic/komi/preview.jpg)
